@@ -15,7 +15,7 @@
 
 ## 🚀 Technologies
 * ✔️ HTML
-* ✔️ CSS/SASS/SCSS
+* ✔️ CSS/SCSS
 
 ## ℹ️ How To Use
 To use this project, you will need [Node](https://nodejs.org/en/) and [GIT](https://git-scm.com/) installed on your computer.
