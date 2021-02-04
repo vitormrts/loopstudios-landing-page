@@ -1,6 +1,6 @@
 <h1 align="center">Loopstudios</h1>
 <p align="center">
-     A responsive static page with knowledge of HTML and CSS applied in its construction. 
+     A responsive page built with HTML and CSS tools.
 </p> 
 
 <p align="center">
@@ -39,6 +39,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/vito
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Vitor Martins ✌ </p>
+<p align="center">Made with ❤️ by <strong>Vitor Martins ✌ </p>
 
 
+ 
